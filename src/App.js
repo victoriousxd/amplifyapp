@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import chicken from './assets/chicken_thumbs_up.gif'
 
